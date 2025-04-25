@@ -46,5 +46,5 @@ Actuellement en formation de Concepteur Développeur d’Applications, je travai
 
 > 💡 *Toujours curieux, toujours en apprentissage. N'hésite pas à jeter un œil à mes projets et à me contacter si tu veux collaborer !*
 >
-> ![snake gif](https://github.com/doniphane/doniphane/blob/output/github-contribution-grid-snake.svg)
+
 
