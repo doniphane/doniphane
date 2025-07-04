@@ -5,7 +5,7 @@ Je suis un développeur passionné par le web et les nouvelles technologies, bas
 Actuellement en formation de Concepteur Développeur d’Applications, je travaille principalement avec JavaScript, React, Node.js, et bien d'autres outils que tu peux découvrir ci-dessous.
 </p>
 
-<img align="right" height="150" src="https://monportfolio2024.onrender.com/2.jpg" alt="Photo de profil" />
+
 
 ---
 
